@@ -183,6 +183,3 @@ I have covered three areas:
 
 ---
 
-## Note
-
-All of the above is based on the given requirements only, without executing the application. Actual results may vary after inspecting the environment, API, and UI.
